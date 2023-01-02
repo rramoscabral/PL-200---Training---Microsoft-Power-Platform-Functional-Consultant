@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: PL-200 - Microsoft Power Platform Functional Consultant
+description: Companion material and resources for the course 'Microsoft Power Platform Functional Consultant' delivery by Ricardo Cabral. 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
