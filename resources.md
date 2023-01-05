@@ -11,7 +11,7 @@
 
 * [Microsoft Power Apps](#power_apps)
 * [Microsoft Power Automate](#power_automate)
-* [Microsoft Dataverse](#power_automate)
+* [Microsoft Dataverse](#dataverse)
 * [Microsoft Power BI](#power_bi)
 * [Microsoft Power Pages](#power_pages)
 * [Microsoft Virtual Agents](#power_virtualagents)
