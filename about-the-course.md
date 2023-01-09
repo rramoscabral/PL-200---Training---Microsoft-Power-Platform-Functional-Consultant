@@ -37,4 +37,4 @@ PL-200 is four-days sequential course.
 
 ---
 
-[**Return to top**](#top) | [**Back to main**](./README.md)**
+[**Return to top**](#top) | [**Back to main**](./README.md)
