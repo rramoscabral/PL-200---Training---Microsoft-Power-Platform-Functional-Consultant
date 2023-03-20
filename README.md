@@ -16,7 +16,14 @@ A Microsoft Power Platform Functional Consultant is responsible for creating and
 - [Licensing & Pricing](./licensing-pricing.md)
 - [Resources](./resources.md)
 
+<br>
 
+---
+
+# Companion Material and Resources for other Power Platform class Delivery
+
+- [PL-100T00: Microsoft Power Platform App Maker](https://pl-100.rramoscabral.com)
+- [PL-400T00: Microsoft Power Platform Developer](https://pl-400.rramoscabral.com) 
 
 <br/>
 
