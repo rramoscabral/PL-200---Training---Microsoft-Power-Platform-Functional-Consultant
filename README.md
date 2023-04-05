@@ -15,6 +15,7 @@ A Microsoft Power Platform Functional Consultant is responsible for creating and
 - [Hands-on Labs](./hands-on-labs.md)
 - [Licensing & Pricing](./licensing-pricing.md)
 - [Resources](./resources.md)
+- [Microsoft customer stories](./microsoft-customer-stories.md)
 
 <br>
 
