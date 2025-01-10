@@ -1,10 +1,25 @@
-<a id="top" />
+---
+layout: default
+title: Microsoft customer stories
+nav_order: 13
+has_children: false
+---
+
+# Resources
+{: .no_toc }
+
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 <br/>
 
-[**Back to main**](./README.md)
-
 ---
+
+<br/>
 
 <a id="mscustomerstories" />
 
@@ -36,12 +51,6 @@
 
 * [Other Power Pages customers stories](https://customers.microsoft.com/en-us/search?sq=&ff=story_product_categories%26%3EPower%20Pages&p=0&so=story_publish_date%20desc)
 
-
-
-
-<br/>
-
-[**Return to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 

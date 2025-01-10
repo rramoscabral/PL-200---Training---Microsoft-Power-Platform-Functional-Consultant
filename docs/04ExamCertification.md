@@ -1,48 +1,20 @@
-<a id="top" />
-
-<br/>
-
-**[Back to main](./README.md)**
-
 ---
+layout: default
+title: Exam certification
+nav_order: 4
+has_children: false
+---
+
 
 ## Exam certification
 
-<br/>
+The PL-200 exam measures your ability to configure Microsoft Dataverse, create apps by using Microsoft Power Apps, create and manage process automation, describe Microsoft Power Virtual Agent, import and visualize data by using dataflows and Power BI, define an environment strategy.
 
+### Power Platform Functional Consultant Associate certification prerequisites
 
-- [About the exam](#about-the-exam)
-- [Skills measure](#skills-measured)
-- [Official practice test](#official-practice-test)
-- [Score needed to pass exam](#score-needed-to-pass-exam)
-- [Exam experience](#exam-experience)
-- [Where can I take the exam](#where-can-i-take-the-exam)
-- [Exam Polices and FAQ](#exam-polices-and-faq)
+The certification **Power Platform Functional Consultant Associate** consists on **one** exam.
 
-
-<br/>
-
-[**Back to main**](README.md)
-
-<br/>
-
----
-
-<a id="about-the-exam" />
-
-<br/>
-
-### **About the exam**
-
-**Microsoft Certified: Power Platform Functional Consultant Associate**
-
-The certification consists on **ONE** exam.
-
-* The exam PL-200 (Microsoft Power Platform Functional Consultant) measures your ability to configure Microsoft Dataverse, create apps by using Microsoft Power Apps, create and manage process automation, describe Microsoft Power Virtual Agent, import and visualize data by using dataflows and Power BI, define an environment strategy.
-
-<br/>
-
-You can explore steps to get certified as an **Power Platform Functional Consultant Associate** and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/power-platform-functional-consultant-associate/)
+You can explore steps to get certified as an Azure Developer Associatee and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/power-platform-functional-consultant-associate/)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
@@ -50,34 +22,24 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+## Exam skills measured
+
+The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://docs.microsoft.com/en-us/learn/certifications/exams/PL-200).
 
 <br/>
 
----
 
-<a id="skills-measured" />
+## Free practice Assessments
 
-<br/>
+Microsoft Learn provide you with an overview of the style, wording, and difficulty of the questions you’re likely to experience on the exam.
+Through these assessments, you’re able to assess your readiness, determine where additional preparation is needed, and fill knowledge gaps bringing you one step closer to the likelihood of passing your exam.
 
-### **Skills measured**
+- [Practice Assessment for Exam PL-200: Microsoft Power Platform Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/practice/assessment?assessment-type=practice&assessmentId=64&practice-assessment-type=certification)
 
-
-The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/pl-200).
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
----
-
-<a id="official-practice-test" />
-
-<br/>
-
-### **Official practice test**
+## Official practice test
 
 The Official practice test are carried out on MeasureUp.
 They offer the official practice test, certKit, assessment, video training or bundles.
@@ -94,22 +56,14 @@ You can access demo tests for free. Each demo is a short version of the complete
 <br/>
 
 You can buy the practice test at:
-- [Measureup](https://www.measureup.com/microsoft-official-practice-test-pl-200-microsoft-power-platform-functional-consultant.html#u5).
-- [Mindhub](https://eu1.mindhub.com/pl-200-microsoft-power-platform-functional-consultant-microsoft-official-practice-test/p/MU-PL-200).
+- [measureup](https://www.measureup.com/microsoft-practice-test-pl-200-microsoft-power-platform-functional-consultant.html#u5).
+- [mindhub](https://eu1.mindhub.com/pl-200-microsoft-power-platform-functional-consultant-microsoft-official-practice-test/p/MU-PL-200).
 
 
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
-<a id="score-needed-to-pass-exam" />
-
-<br/>
-
-### **Score needed to pass exam**
+## Score required to pass a Microsoft certification exam
 
 All technical exam scores are reported on a scale of 1 to 1,000 and are scaled such that the passing score is 700. Any score of 700 or greater is a "pass." Any score below 700 is a "fail." The actual number of items you need to answer correctly to pass is determined by a group of subject matter experts in conjunction with the Microsoft psychometrician during the development and maintenance of the exam. The passing score is based on the knowledge and skills needed to demonstrate competence in the skill domain and the difficulty of the questions that a candidate answers when taking the exam.
 
@@ -117,20 +71,9 @@ For more informations about the exam scoring and score reports is available [**h
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+## Microsoft certification exam experience
 
-<br/>
-
----
-
-<a id="exam-experience" />
-
-<br/>
-
-### **Exam experience**
-
-
-You can demo the exam experience by visiting the exam sandbox at **[https://aka.ms/examdemo](https://aka.ms/examdemo)**.
+You can demo the exam experience by visiting the exam sandbox at **[https://aka.ms/examdemo](https://aka.ms/examdemo)** or [here](https://go.microsoft.com/fwlink/?linkid=2226877).
 
 <br/>
 
@@ -140,18 +83,7 @@ As a result, using this sandbox should better prepare you for the exam experienc
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
----
-
-<a id="where-can-i-take-the-exam" />
-
-<br/>
-
-### **Where can I take the exam**
-
+## Where can I take the exam
 
 You can take an exam in two ways, at a testing center or online proctored exams. Both are carried out under the management of Pearson VUE.
 
@@ -181,17 +113,7 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
----
-
-<a id="exam-polices-and-faq" />
-
-<br/>
-
-### **Exam Polices and FAQ**
+## Microsoft Exam Polices and FAQ
 
 [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 
@@ -199,9 +121,3 @@ If you want to take an online exam **run system test** before you register for a
 
 
 <br/>
-
-[**Return to top**](#top) | [**Back to main**](./README.md)
-
-<br/>
-
----

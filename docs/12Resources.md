@@ -1,35 +1,35 @@
-<a id="top" />
+---
+layout: default
+title: Resources
+nav_order: 12
+has_children: false
+---
 
-<br/>
+# Resources
+{: .no_toc }
 
 
-**[Back to main](./README.md)**
+## Table of contents
+{: .no_toc .text-delta }
 
-## Resources
-
-<br>
-
-
-* [Microsoft Power Platform](#power_platform)
-* [Microsoft Power Platform Admin Center](#power_platform_admin)
-* [Microsoft Power Apps](#power_apps)
-* [Microsoft Power Automate](#power_automate)
-* [Microsoft Dataverse](#dataverse)
-* [Microsoft Power BI](#power_bi)
-* [Microsoft Power Pages](#power_pages)
-* [Microsoft Virtual Agents](#power_virtualagents)
-
+1. TOC
+{:toc}
 
 <br/>
 
 ---
 
-<a id="power_platform" />
+<br/>
+
+## Resources
+
+Here are presented totally free digital resources in web format (Web Sites, Blogs, ...), ebooks and newsletters.
+
+> Note: All links have been tested. If a link does not work, the author has stopped providing the information.
 
 <br/>
 
-
-**Microsoft Power Platform**
+### Microsoft Power Platform
 
 - [Microsoft Power Platform and Dynamics 365 release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 - [Microsoft Power Platform Adoption](https://adoption.microsoft.com/powerplatform/)
@@ -37,20 +37,15 @@
 - [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/)
 - [User community](https://powerusers.microsoft.com/)
 
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
-
----
 
 <a id="power_platform_admin" />
 
 <br/>
 
 
-**Microsoft Power Platform Admin Center**
+### Microsoft Power Platform Admin Center
 
 - [Product documentation](https://learn.microsoft.com/en-us/power-platform/admin/)
 - [Power Platform Governance (white paper)](https://aka.ms/powerappsadminwhitepaper) 
@@ -60,20 +55,16 @@
 - [Data loss prevention policies](https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
 - [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
 
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
 
----
 
 <a id="power_apps" />
 
 <br/>
 
 
-**Microsoft Power Apps**
+### Microsoft Power Apps
 
 - [2022 Release wave plan 1](https://aka.ms/Plan/2022RW1/PowerApps)
 - [2022 Release wave plan 2](https://aka.ms/Plan/2022RW2/PowerApps)
@@ -90,20 +81,15 @@
 - [Product trials](https://aka.ms/Trials/PowerApps)
 
 
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
-
----
 
 <a id="power_automate" />
 
 <br/>
 
 
-**Microsoft Power Automate**
+### Microsoft Power Automate
 
 - [2022 Release wave plan 1](https://aka.ms/Plan/2022RW1/PowerAutomate)
 - [2022 Release wave plan 2](https://aka.ms/Plan/2022RW2/PowerAutomate)
@@ -128,18 +114,12 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
-
----
-
 <a id="dataverse" />
 
 <br/>
 
 
-**Microsoft Dataverse**
+### Microsoft Dataverse
 
 - [2022 Release wave plan 1](https://learn.microsoft.com/en-us/power-platform-release-plan/2022wave1/data-platform/)
 - [2022 Release wave plan 2](https://learn.microsoft.com/en-us/power-platform-release-plan/2022wave2/data-platform/)
@@ -151,21 +131,14 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 - [User community](https://aka.ms/Community/dataverse)
 
 
-
 <br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
-
----
 
 <a id="power_bi" />
 
 <br/>
 
 
-**Microsoft Power BI**
+### Microsoft Power BI
 
 - [2022 Release wave plan 1](https://aka.ms/Plan/2022RW1/PowerBI)
 - [2022 Release wave plan 2](https://aka.ms/Plan/2022RW2/PowerBI)
@@ -183,21 +156,17 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 - [Upcoming events](https://aka.ms/Events/PowerBI)
 - [Product trials](https://aka.ms/Trials/PowerBI)
 
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
 
 ---
-
 
 <a id="power_pages" />
 
 <br/>
 
 
-**Microsoft Power Pages**
+### Microsoft Power Pages
 
 - [2022 Release wave plan 1](https://aka.ms/Plan/2022RW1/PowerPages)
 - [2022 Release wave plan 2](https://aka.ms/Plan/2022RW2/PowerPages)
@@ -216,18 +185,13 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
+<a id="power_virtualagents" />
 
 ---
 
-<a id="power_virtualagents" />
-
 <br/>
 
-
-**Microsoft Virtual Agents**
+### Microsoft Virtual Agents
 
 - [2022 Release wave plan 1](https://aka.ms/Plan/2022RW1/PowerVirtualAgents)
 - [2022 Release wave plan 2](https://aka.ms/Plan/2022RW2/PowerVirtualAgents)
@@ -242,14 +206,3 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 - [Product trials](https://aka.ms/Trials/PowerVirtualAgents)
 
 <br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
-
-
-
-------
-
-**[Back to main](./README.md)**
-

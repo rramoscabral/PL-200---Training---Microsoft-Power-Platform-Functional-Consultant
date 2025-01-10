@@ -1,12 +1,13 @@
-<br/>
-
-**[Back to main](./README.md)**
-
+---
+layout: default
+title: Hands-on Labs
+nav_order: 10
+has_children: false
 ---
 
-## Hands-on Labs
+# Hands-on Labs
+{: .no_toc }
 
-<br/>
 
 
 ### Microsoft Course and Workshops Hands-on Labs
@@ -17,14 +18,6 @@ Oficial PL-200 Hands-on Labs
 * ***PL-200*** official course lab instructions is available [**here**](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/).
 * You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant).
 
-
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
-
----
 
 <br/>
 
@@ -57,11 +50,5 @@ Oficial PL-200 Hands-on Labs
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
-
-
 ---
 
-**[Back to main](./README.md)**
