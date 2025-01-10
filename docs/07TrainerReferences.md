@@ -101,7 +101,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 8: Visualize data with Power B
+## Learning Path 8: Visualize data with Power BI
 
 <!-- 
 | Lessons | Notes |
