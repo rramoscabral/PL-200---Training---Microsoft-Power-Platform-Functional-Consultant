@@ -1,12 +1,12 @@
 title: "Training course for Microsoft AZ-204"
-description: "Companion material and resources for the course 'AZ-204: Developing Solutions for Microsoft Azure' delivery by Ricardo Cabral." 
-url: "https://az204.rramoscabral.com/" 
-repository: "https://github.com/rramoscabral/AZ-204---Training---Developing-Solutions-for-Microsoft-Azure"
+description: "Companion material and resources for the course 'PL-200: Microsoft Power Platform Functional Consultant' delivery by Ricardo Cabral." 
+url: "https://pl200.rramoscabral.com/" 
+repository: "https://github.com/rramoscabral/PL-200---Training---Microsoft-Power-Platform-Functional-Consultant"
 theme: just-the-docs
 
 aux_links:
-  "Companion Material and Resources for Class Delivery by Ricardo Cabral for Microsoft Course AZ-204": 
-    - "https://az204.rramoscabral.com/"
+  "Companion Material and Resources for Class Delivery by Ricardo Cabral for Microsoft Course PL-200": 
+    - "https://pl200.rramoscabral.com/"
 
 callouts_level: quiet # or loud
 callouts:
@@ -58,6 +58,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/rramoscabral/AZ-204---Training---Developing-Solutions-for-Microsoft-Azure"
+gh_edit_repository: "https://github.com/rramoscabral/PL-200---Training---Microsoft-Power-Platform-Functional-Consultant"
 gh_edit_branch: "main" 
 gh_edit_view_mode: "tree"
